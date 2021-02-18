@@ -21,7 +21,7 @@
 
 ## Ejercicio
 
-1) Modifica el modelo para que tenga 4 campos.
+1) Modifica el modelo para que tenga 4 campos en vez de 2 (num3 y num4).
 2) Agrega las funciones (clase servicio) multiplicar y dividir.
 3) Modificar la vista para que tenga esos 4 campos.
 
