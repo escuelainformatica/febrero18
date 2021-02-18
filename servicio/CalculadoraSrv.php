@@ -35,4 +35,26 @@ class CalculadoraSrv
 
         return $calc;
     }
+
+    /**
+     * Valida si la calculadora es correcta
+     *
+     * @param Calculadora $calc
+     */
+    public static function validar(Calculadora  $calc) {
+        if(is_numeric($calc->num1)===false) {
+            return false;
+        }
+        if(!is_numeric($calc->num2)) { // valor===false  es igual a !valor
+            return false;
+        }
+        if(!is_numeric($calc->num3)) { // valor===false  es igual a !valor
+            return false;
+        }
+        if(!is_numeric($calc->num4)) { // valor===false  es igual a !valor
+            return false;
+        }
+        return true;
+
+    }
 }
