@@ -1,5 +1,10 @@
 # febrero18
 
+Git Clone
+
+![imagenes/gitclone](imagenes/gitclone.jpg)
+
+
 1. Creando clase de modelo. ✅ <-- iniciar
 
 [x] Num1, Num2 (campos)   
