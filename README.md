@@ -4,3 +4,8 @@
 2. Crear clases de servicio.
 3. Crear las vistas (html).
 4. Unir todo.
+
+![imagenes/imagen1.jpg](imagenes/imagen1.jpg)
+
+[imagenes/imagen1.jpg](imagenes/imagen1.jpg)
+
